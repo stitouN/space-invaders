@@ -1,0 +1,14 @@
+root {
+    display: block;
+}
+.root {
+    -fx-background-image: url("images/space-background.png");
+}
+.score {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial";
+    -fx-font-size: 34;
+    -fx-font-weight: bold;
+    -fx-padding: 10 0 0 10;
+}
+
